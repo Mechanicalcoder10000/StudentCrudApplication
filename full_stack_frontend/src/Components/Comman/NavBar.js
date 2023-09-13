@@ -27,7 +27,7 @@ const NavBar = () => {
 								className="nav-link active"
 								aria-current="page"
 								to={"/view-students"}>
-								View All Student
+								View All Students
 							</Link>
 						</li>
 						<li className="nav-item">
